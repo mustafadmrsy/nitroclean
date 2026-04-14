@@ -1,0 +1,11 @@
+<svg width="120" height="140" viewBox="0 0 120 140" xmlns="http://www.w3.org/2000/svg">
+  <rect x="4" y="4" width="112" height="104" rx="14" fill="#F97316"/>
+  <!-- Alev -->
+  <path d="M60 90 C34 78 30 60 40 46 C43 57 50 60 52 53 C54 40 62 26 62 16 C68 28 75 36 72 50 C75 42 82 44 81 54 C83 62 84 78 60 90Z" fill="white"/>
+  <!-- İç alev -->
+  <path d="M60 80 C46 72 45 60 51 50 C53 58 57 61 59 55 C61 47 63 40 63 34 C67 42 70 50 68 59 C70 53 75 55 74 62 C73 70 74 78 60 80Z" fill="#F97316"/>
+  <!-- Yasak çemberi -->
+  <circle cx="88" cy="88" r="20" fill="#EF4444"/>
+  <line x1="74" y1="88" x2="102" y2="88" stroke="white" stroke-width="4.5" stroke-linecap="round"/>
+  <text x="60" y="130" text-anchor="middle" font-size="12" font-weight="600" fill="#1F2937" font-family="Arial, sans-serif">Ateşten uzak</text>
+</svg>
